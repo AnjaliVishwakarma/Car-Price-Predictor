@@ -1,0 +1,25 @@
+.{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.bg-dark{
+    background-color:#75767B;
+}
+
+.mt-50{
+    margin-top:50px;
+}
+
+
+
+.col-10{
+    margin-top:30px;
+}
+
+.btn{
+    margin-top:15px;
+    margin-bottom:15px;
+}
+
